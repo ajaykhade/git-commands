@@ -1,4 +1,4 @@
-this file is being tracked by git
+
 These are common Git commands used in various situations:
 
 start a working area (see also: git help tutorial)
@@ -40,6 +40,38 @@ dir /ah : gives hidden file list
 dir
 
 git status : see any commit made or not
+			(file in red color)
+
+git add git-commands.txt   to add file from workspace to staging area(check file in green color) 
+
+
+git commit git-commands.txt -m "my first commit"
+add file from staging area to local repo
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Ajay"
+
+git log :give details about changes
+
+git diff :used to get diff from commit till now 
+
+
+GIT BRANCH AND MERGE
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
